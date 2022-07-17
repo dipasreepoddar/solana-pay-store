@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "History of Money",
+    "price": "0.09",
+    "description": "Get this history of money pack for only $0.09! Includes a brief history of the evolution of money!",
+    "image_url": "https://cloudflare-ipfs.com/ipfs/QmSksCczGiQcGwZnvUXT4hdZP9XrSaD1W5yNCDQHeY5Sxm",
+    "filename": "HistoryOfMoney.zip",
+    "hash": "QmZFupLs75iPTgFV5sfCcbcWZL128DgWhHz4VA52iKV5hj"
+  },
+  {
+    "id": 2,
+    "name": "History of Space Exploration",
+    "price": "0.8",
+    "image_url": "https://cloudflare-ipfs.com/ipfs/QmZB2KK5kkGJvthQBFQRrayCKeFKxpwTciLvoX7WrZ19af",
+    "description": "Get this history of space exploration pack for only $0.8! Includes a brief timeline of the efforts of human civilization to explore space!",
+    "filename": "SpaceExplorationHistory.zip",
+    "hash": "QmVzUi2ZjtTmB2teVZFa6mKEnddyF6Gj6SWfqxHZU5yupE"
+  }
+]
